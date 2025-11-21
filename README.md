@@ -43,4 +43,4 @@ Here are some ideas to get you started:
 - GitHub  
 - GitLab  
 
-## DEMAIS EM CONSTRUÇÃO.... Em constante evoluçãi
+## DEMAIS EM CONSTRUÇÃO.... Em constante evolução
