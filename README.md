@@ -1,7 +1,8 @@
 ## 👋 Olá!
 
 ## 🔎 Sobre mim
-- Formado em **Analytics Engineer**
+- Formado em  **Administração**
+- Tenho um curso de **Analytics Engineer** pela Indicium
 - Trabalho com **BI desde 2020**
 - Entusiasta de dados e curioso por natureza
 - Gosto de “torturar dos dados” pra extrair padrões, insights e histórias
@@ -19,7 +20,7 @@
 - Azure  
 - dbt  
 - Snowflake  
-- Airflow  
+- Airflow
 
 ### 🧩 Desenvolvimento / Versionamento
 - Python  
